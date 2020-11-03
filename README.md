@@ -23,7 +23,7 @@
 
 ### Technologies
 
-Technologies that I used to develop this api
+Technologies pre-configured so far:
 
 - [Node.js](https://nodejs.org/en/)
 - [TypeScript](https://www.typescriptlang.org/)
